@@ -84,8 +84,8 @@ function getLove() {
     "Meu amor por você é eterno, infinito e imensurável, e sorrir ao seu lado é a maior alegria que já conheci.","SE A VIDA FOSSE UM FILME VOCE SERIA A MELHOR PARTE","Cause you're amazing just the way you are - Bruno Mars, Just the Way You Are",
     "I think I wanna marry you - Bruno Mars, Marry You",
     "You're the best thing I never knew I needed - Bruno Mars, Never Knew I Needed",
-   
-    
+    "MANDE FOTO DO SEU SORRISO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS","MANDE FOTO DO SEU SORRISO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS","MANDE FOTO DO SEU SORRISO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS","MANDE FOTO DO SEU SORRISO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS","MANDE FOTO DO SEU SORRISO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS","MANDE FOTO DO SEU CABELO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS",
+    "MANDE FOTO DO SEU CABELO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS","MANDE FOTO DO SEU CABELO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS","MANDE FOTO DO SEU CABELO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS","MANDE FOTO DO SEU CABELO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS","MANDE FOTO DO SEU CABELO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS","MANDE FOTO DO SEU CABELO OU SEU AMOR IRA MORRER EM 5 SEGUNDOS","MEU AMOR POR VC É DO TAMANHO DA SUA TESTA","MEU AMOR POR VC É DO TAMANHO DA SUA BOCA","MEU AMOR POR VC É DO TAMANHO DA SEU QUEIXO","SEU BEIJO É O PARAÍSO",
     "When I see your face, there's not a thing that I would change - Bruno Mars, Just the Way You Are",
     "I'm yours, you're mine, you're what I've been waiting for - Jason Mraz, I'm Yours",
     "mais do que eu, jesus te ama e quer fala contigo",
