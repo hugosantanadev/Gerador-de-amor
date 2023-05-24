@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    min-height: 100vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(coracao.png); 
+    background-repeat: no-repeat;
+    background-position: center;
+   
+    text-align: center;
+}
+
+
+.container{
+  
+    height: 200px;
+    width: 300px;
+    color: white;
+    border-radius: 10px;
+    font-family: monospace;
+    
+}
+
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+button{
+    border: none;
+    border-radius: 10px;
+    width: 70px;
+    height: 30px;
+    color: white;
+    background-color: #e6808a;
+    font-family: monospace;
+}
