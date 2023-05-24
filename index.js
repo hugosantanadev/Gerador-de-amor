@@ -3,15 +3,16 @@ const mensagemEl = document.querySelector("p");
 
 function getLove() {
   var mensagensAmor = [
+    
+    "EU TE AMO LINDA","VOCE É LINDA",
+    "EU TE AMO","VOCE É LINDA",
+    "EU TE AMO LINDA","VOCE É LINDA",
+    "EU TE AMO BEM MUITÃO", "XODADI","XODADI","XODADI","XODADI","SEI LÁ","SEI LÁ","SEI LÁ","SEI LÁ",
     "Eu te amo mais do que tudo!",
     "Você é a pessoa mais especial da minha vida!",
     "Meu amor por você é infinito!",
     "Você é o meu raio de sol!",
     "Com você, meu coração é completo!","Se eu fosse um astronauta eu viajaria em todas os planetas até me encontrar com você de novo",
-    "Se eu fosse uma abelha eu tomaria o pólen da sua flor todos os dias",
-    "Se eu fosse um cachorro eu cheraria seu cu todo dia",
-    "Se você fosse um peido eu nunca te soltaria",
-    "Se você fosse cocô eu nunca daria descarga",
     "Se você é a mulher mais linda do mundo você seria exatamente a mulher que você é hoje e nada mudaria",
     "Se você fosse um prêmio da lotérica, eu compraria todos os bilhetes só pra ter você",
     "Se você fosse o sol e eu fosse a lua, eu esperaria ansiosamente todos os dias pelo nosso eclipse",
@@ -30,7 +31,7 @@ function getLove() {
     "EU TE AMO LINDA","VOCE É LINDA",
     "EU TE AMO BEM MUITÃO", "XODADI","XODADI","XODADI","XODADI","SEI LÁ","SEI LÁ","SEI LÁ","SEI LÁ",
     "Não há ninguém, mesmo sem cultura, que não se torne poeta quando o amor toma conta dele."
-    ,"O que a memória ama, fica eterno. Te amo com a memória, imperecível.","Eu te amo para amar-te e não para ser amado, pois nada me dá tanta felicidade como te ver feliz.","QUERO CASAR SÓ PARA OLHAR NOS TEUS OLHOS TODOS OS DIAS DA MINHA VIDA","se van gogh olhasse a beleza que vejo em teus olhos amaria a vida como ninguém.(ele se matou)", "VOCE ACAB DE ENCONTRAR UMA MOPA, VOCE ESTA DEVENDO 50 BEIJINHOS", "VOCE ACABA DE ENCONTRAR UMA MOPA E ESTA DEVENDO UMA FOTO TEMPORARIA", "VOCE ACABDE ENCONTRAR UMA MOPA E ESTA DEVENDO UM ABRAÇO BEM APERTADO","Você é a luz que ilumina todos os meus dias.",
+    ,"O que a memória ama, fica eterno. Te amo com a memória, imperecível.","Eu te amo para amar-te e não para ser amado, pois nada me dá tanta felicidade como te ver feliz.","QUERO CASAR SÓ PARA OLHAR NOS TEUS OLHOS TODOS OS DIAS DA MINHA VIDA","se van gogh olhasse a beleza que vejo em teus olhos amaria a vida como ninguém.(ele se matou)", "VOCE ACABA DE ENCONTRAR UMA MOPA, VOCE ESTA DEVENDO 50 BEIJINHOS", "VOCE ACABA DE ENCONTRAR UMA MOPA E ESTA DEVENDO UMA FOTO TEMPORARIA", "VOCE ACABDE ENCONTRAR UMA MOPA E ESTA DEVENDO UM ABRAÇO BEM APERTADO","Você é a luz que ilumina todos os meus dias.",
     "Meu amor por você é como um oceano infinito, profundo e cheio de ternura.",
     "Nosso amor é uma dança perfeita, onde nossos corações seguem o ritmo um do outro.",
     "Cada momento ao seu lado é um tesouro que guardo no meu coração.",
@@ -82,23 +83,32 @@ function getLove() {
     "Meu amor por você é eterno, infinito e imensurável, e sorrir ao seu lado é a maior alegria que já conheci.","SE A VIDA FOSSE UM FILME VOCE SERIA A MELHOR PARTE","Cause you're amazing just the way you are - Bruno Mars, Just the Way You Are",
     "I think I wanna marry you - Bruno Mars, Marry You",
     "You're the best thing I never knew I needed - Bruno Mars, Never Knew I Needed",
-    "Cause, darling, I'm a nightmare dressed like a daydream- Taylor Swift, Blank Space",
+   
     "You're beautiful, it's true - James Blunt, You're Beautiful",
     "You're the reason I come home - Ron Pope, A Drop in the Ocean",
     "When I see your face, there's not a thing that I would change - Bruno Mars, Just the Way You Are",
     "I'm yours, you're mine, you're what I've been waiting for - Jason Mraz, I'm Yours",
-    "Cause all of me loves all of you - John Legend, All of Me",
-    "You're still the one I run to, the one that I belong to - Shania Twain, You're Still the One",
-    "You're the reason I believe in love - Daniel Caesar, Best Part",
-    "And darling, I will be loving you 'til we're 70 - Ed Sheeran, Thinking Out Loud",
-    "You're my sunshine on a rainy day - Bruno Mars, Count on Me",
-    "You make me feel like I'm living a teenage dream - Katy Perry, Teenage Dream",
-    "You're the closest to heaven that I'll ever be - The Goo Goo Dolls, Iris",
-    "I wanna love you inside out - The Chainsmokers, Inside Out",
-    "Cause all I need is a beauty and a beat - Justin Bieber ft. Nicki Minaj, Beauty and a Beat",
-    "You are the best thing that's ever been mine - Taylor Swift, Mine",
-    "When I see your smile, the whole world stops and stares for a while - Bruno Mars, Just the Way You Are",
+   
     
+    "You're the reason I believe in love - Daniel Caesar, Best Part",
+    
+    "You're my sunshine on a rainy day - Bruno Mars, Count on Me",
+    "You're the coffee that I need in the morning" - "Você é o café que eu preciso pela manhã",
+    "You're the sunshine in the rain when it's pouring" - "Você é o sol na chuva quando está chovendo",
+    "And I'll tell you every day, oooh" - "E eu vou te dizer todos os dias, oooh",
+    "You're my everything, you're all I ever wanted" - "Você é tudo para mim, é tudo o que eu sempre quis",
+    "We can make it if we try, just be mine" - "Nós podemos conseguir se tentarmos, apenas seja minha",
+    "I lose my sanity" - "Eu perco minha sanidade",
+    "You're the melody" - "Você é a melodia",
+    "I'm in heaven, we can take it there" - "Estou no paraíso, podemos levar para lá",
+    "I'm a star, you're my favorite movie" - "Eu sou uma estrela, você é meu filme favorito",
+    "You're my water when I'm stuck in the desert" - "Você é minha água quando estou preso no deserto",
+    "When I see your smile, the whole world stops and stares for a while - Bruno Mars, Just the Way You Are",
+    ,
+    "EU TE AMO LINDA","VOCE É LINDA",
+    "EU TE AMO","VOCE É LINDA",
+    "EU TE AMO LINDA","VOCE É LINDA",
+    "EU TE AMO BEM MUITÃO", "XODADI","XODADI","XODADI","XODADI","SEI LÁ","SEI LÁ","SEI LÁ","SEI LÁ",
   ];
 
   var indice = Math.floor(Math.random() * mensagensAmor.length);
