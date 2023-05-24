@@ -68,6 +68,7 @@ function getLove() {
     "Você é o motivo pelo qual minha vida ganhou um novo sentido e uma felicidade sem igual.",
     "Seu abraço é meu porto seguro, onde encontro paz, conforto e todo o amor que preciso.",
     "Quando olho nos seus olhos, encontro um universo inteiro de amor e compreensão.",
+    "MOPA", "VOCE ENCONTROU UMA MOPA E TEM O DIREITO DE PEDIR QUALQUER COISA","AMO VOCÊ DO JEITINHO QUE É","se eu pudessemudar algo em vc, eu mudaria a forma como você se ve",
     "Você é a chave que abre as portas do meu coração, revelando um amor eterno e verdadeiro.",
     "Em cada gesto seu, encontro uma razão a mais para amar você incondicionalmente.",
     "Seu amor é como um farol, que me guia nas noites escuras e me mostra o caminho da felicidade.",
@@ -84,31 +85,30 @@ function getLove() {
     "I think I wanna marry you - Bruno Mars, Marry You",
     "You're the best thing I never knew I needed - Bruno Mars, Never Knew I Needed",
    
-    "You're beautiful, it's true - James Blunt, You're Beautiful",
-    "You're the reason I come home - Ron Pope, A Drop in the Ocean",
+    
     "When I see your face, there's not a thing that I would change - Bruno Mars, Just the Way You Are",
     "I'm yours, you're mine, you're what I've been waiting for - Jason Mraz, I'm Yours",
-   
-    
+    "mais do que eu, jesus te ama e quer fala contigo",
+    "eu tenho orgulho do quanto você se esforça, descanse meu amor",
     "You're the reason I believe in love - Daniel Caesar, Best Part",
-    
+    "vc é minha garotinha favorita", "EU TENHO MUITO ORGULHO DE VC CONTINUE ASSIM","BEBA AGUA","VOCE ENCONTROU UMA MOPA BEBA AGUA PARA NÃO SER MOPADO", "EU TENHO MUITO ORGULHO DE VC CONTINUE ASSIM","BEBA AGUA","VOCE ENCONTROU UMA MOPA BEBA AGUA PARA NÃO SER MOPADO", "EU TENHO MUITO ORGULHO DE VC CONTINUE ASSIM","BEBA AGUA","VOCE ENCONTROU UMA MOPA BEBA AGUA PARA NÃO SER MOPADO", "EU TENHO MUITO ORGULHO DE VC CONTINUE ASSIM","BEBA AGUA","VOCE ENCONTROU UMA MOPA BEBA AGUA PARA NÃO SER MOPADO", "EU TENHO MUITO ORGULHO DE VC CONTINUE ASSIM","BEBA AGUA","VOCE ENCONTROU UMA MOPA BEBA AGUA PARA NÃO SER MOPADO", "EU TENHO MUITO ORGULHO DE VC CONTINUE ASSIM","BEBA AGUA","VOCE ENCONTROU UMA MOPA BEBA AGUA PARA NÃO SER MOPADO","MOPA",
     "You're my sunshine on a rainy day - Bruno Mars, Count on Me",
-    "You're the coffee that I need in the morning" - "Você é o café que eu preciso pela manhã",
-    "You're the sunshine in the rain when it's pouring" - "Você é o sol na chuva quando está chovendo",
-    "And I'll tell you every day, oooh" - "E eu vou te dizer todos os dias, oooh",
+    "You're the coffee that I need in the morning - Você é o café que eu preciso pela manhã",
+    "You're the sunshine in the rain when it's pouring - Você é o sol na chuva quando está chovendo",
+    "And I'll tell you every day, oooh - E eu vou te dizer todos os dias, oooh",
     "You're my everything, you're all I ever wanted" - "Você é tudo para mim, é tudo o que eu sempre quis",
-    "We can make it if we try, just be mine" - "Nós podemos conseguir se tentarmos, apenas seja minha",
-    "I lose my sanity" - "Eu perco minha sanidade",
-    "You're the melody" - "Você é a melodia",
-    "I'm in heaven, we can take it there" - "Estou no paraíso, podemos levar para lá",
-    "I'm a star, you're my favorite movie" - "Eu sou uma estrela, você é meu filme favorito",
-    "You're my water when I'm stuck in the desert" - "Você é minha água quando estou preso no deserto",
+    "We can make it if we try, just be mine - Nós podemos conseguir se tentarmos, apenas seja minha",
+    "I lose my sanity - Eu perco minha sanidade",
+    "You're the melody - Você é a melodia",
+    "I'm in heaven, we can take it there - Estou no paraíso, podemos levar para lá",
+    "I'm a star, you're my favorite movi - Eu sou uma estrela, você é meu filme favorito",
+    "You're my water when I'm stuck in the desert - Você é minha água quando estou preso no deserto",
     "When I see your smile, the whole world stops and stares for a while - Bruno Mars, Just the Way You Are",
     ,
     "EU TE AMO LINDA","VOCE É LINDA",
     "EU TE AMO","VOCE É LINDA",
     "EU TE AMO LINDA","VOCE É LINDA",
-    "EU TE AMO BEM MUITÃO", "XODADI","XODADI","XODADI","XODADI","SEI LÁ","SEI LÁ","SEI LÁ","SEI LÁ",
+    "EU TE AMO BEM MUITÃO", "XODADI","XODADI","XODADI","XODADI","SEI LÁ","SEI LÁ","SEI LÁ","SEI LÁ"
   ];
 
   var indice = Math.floor(Math.random() * mensagensAmor.length);
